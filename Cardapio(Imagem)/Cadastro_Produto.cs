@@ -37,13 +37,13 @@ namespace Cardapio_Imagem_
 
                 produto.Add(p);
 
-                tabela.DataSource = null;
-                tabela.Refresh();
-                tabela.DataSource = produto;
-
                 var file = File.AppendText(@"C:\Users\Master\Documents\Cadastro_produtos\CadastroDeProdutos.docx");
                 file.WriteLine(codigo.Text + "|" + descricao.Text + "|" + valor.Text);
                 file.Close();
+
+                tabela.DataSource = null;
+                tabela.Refresh();
+                tabela.DataSource = produto;
 
                 MessageBox.Show("Produto cadastrado com sucesso!");
             }
@@ -72,6 +72,19 @@ namespace Cardapio_Imagem_
 
         private void Cadastro_Produto_Load(object sender, EventArgs e)
         {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void tabela_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+
+
 
         }
     }

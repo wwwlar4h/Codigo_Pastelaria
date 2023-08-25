@@ -10,3 +10,16 @@ C:\Users\Master\Desktop\Lógica de P\Cardapio(Imagem)\Cardapio(Imagem)\obj\Debug
 C:\Users\Master\Desktop\Lógica de P\Cardapio(Imagem)\Cardapio(Imagem)\obj\Debug\Cardapio(Imagem).exe
 C:\Users\Master\Desktop\Lógica de P\Cardapio(Imagem)\Cardapio(Imagem)\obj\Debug\Cardapio(Imagem).pdb
 C:\Users\Master\Desktop\Lógica de P\Cardapio(Imagem)\Cardapio(Imagem)\obj\Debug\Cardapio_Imagem_.Cadastro_Produto.resources
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\bin\Debug\Cardapio(Imagem).exe.config
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\bin\Debug\Cardapio(Imagem).exe
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\bin\Debug\Cardapio(Imagem).pdb
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\obj\Debug\Cardapio(Imagem).csproj.AssemblyReference.cache
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\obj\Debug\Cardapio(Imagem).csproj.SuggestedBindingRedirects.cache
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\obj\Debug\Cardapio_Imagem_.Cadastro_Produto.resources
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\obj\Debug\Cardapio_Imagem_.Form1.resources
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\obj\Debug\Cardapio_Imagem_.PedidoCalculo.resources
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\obj\Debug\Cardapio_Imagem_.Properties.Resources.resources
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\obj\Debug\Cardapio(Imagem).csproj.GenerateResource.cache
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\obj\Debug\Cardapio(Imagem).csproj.CoreCompileInputs.cache
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\obj\Debug\Cardapio(Imagem).exe
+C:\Users\2022102020030\source\repos\cardapioPaste\Codigo_Pastelaria\Cardapio(Imagem)\obj\Debug\Cardapio(Imagem).pdb
