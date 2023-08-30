@@ -16,7 +16,7 @@ namespace Cardapio_Imagem_
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new PedidoCalculo());
+            Application.Run(new Form1());
         }
     }
 }

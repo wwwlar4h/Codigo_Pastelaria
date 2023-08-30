@@ -37,7 +37,7 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Cardapio_Imagem_.Properties.Resources.Cardápio_para_pastelaria_profissional_vermelho_resized;
-            this.pictureBox1.Location = new System.Drawing.Point(-6, -3);
+            this.pictureBox1.Location = new System.Drawing.Point(-10, -6);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(465, 637);
             this.pictureBox1.TabIndex = 0;
@@ -47,11 +47,11 @@
             // 
             this.button1.BackColor = System.Drawing.Color.Gold;
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button1.Font = new System.Drawing.Font("Lucida Bright", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.button1.Location = new System.Drawing.Point(286, 452);
+            this.button1.Location = new System.Drawing.Point(274, 437);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(104, 44);
+            this.button1.Size = new System.Drawing.Size(127, 53);
             this.button1.TabIndex = 1;
             this.button1.Text = "CADASTRAR PRODUTO";
             this.button1.UseVisualStyleBackColor = false;
@@ -61,13 +61,13 @@
             // 
             this.button2.BackColor = System.Drawing.Color.Gold;
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
-            this.button2.Font = new System.Drawing.Font("Lucida Fax", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
-            this.button2.Location = new System.Drawing.Point(286, 511);
+            this.button2.Location = new System.Drawing.Point(274, 506);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(104, 45);
+            this.button2.Size = new System.Drawing.Size(127, 53);
             this.button2.TabIndex = 2;
-            this.button2.Text = "FAZER PEDIDO";
+            this.button2.Text = "CADASTRAR FUNCIONÁRIO";
             this.button2.UseVisualStyleBackColor = false;
             this.button2.Click += new System.EventHandler(this.button2_Click);
             // 

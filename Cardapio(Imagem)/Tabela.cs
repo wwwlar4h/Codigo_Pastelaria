@@ -16,7 +16,5 @@ namespace Cardapio_Imagem_
                 file.WriteLine(codigo + "|" + descricao + "|" + valor);
                 file.Close();
             }
-
-
     }
 }

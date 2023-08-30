@@ -10,27 +10,20 @@ using System.Windows.Forms;
 
 namespace Cardapio_Imagem_
 {
-    public partial class Form1 : Form
+    public partial class Cadastro_Funcionario : Form
     {
-        public Form1()
+        public Cadastro_Funcionario()
         {
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
-            Cadastro_Produto ca =  new Cadastro_Produto();
-            ca.ShowDialog();
 
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void label4_Click(object sender, EventArgs e)
         {
-
-
-
-
-
 
         }
     }

@@ -67,13 +67,13 @@ namespace Cardapio_Imagem_
 
             double v3 = Convert.ToDouble(comboBox1.SelectedValue.ToString());
 
-            double q = 
+           
 
 
 
 
-            double c = v1 + v2; 
-            MessageBox.Show(c.ToString());
+       
+          
 
 
         }
